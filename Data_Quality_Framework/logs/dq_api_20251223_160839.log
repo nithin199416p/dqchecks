@@ -1,7 +1,0 @@
-2025-12-23 16:08:39,060 - __main__ - INFO - 🌐 API Server Logging Initialized
-2025-12-23 16:08:39,061 - __main__ - INFO - 📝 Logs saved to: logs/dq_api_20251223_160839.log
-2025-12-23 16:08:39,216 - __main__ - INFO - APP_SETTINGS loaded. Audit enabled: True
-2025-12-23 16:08:39,217 - __main__ - INFO - ✅ All DQ modules loaded successfully
-2025-12-23 16:08:39,220 - dq_error_log - INFO - ErrorLogger initialized with database: dq_checks
-2025-12-23 16:08:39,220 - dq_audit - INFO - Audit class initialized with database: dq_checks
-2025-12-23 16:08:39,220 - __main__ - INFO - ✅ ErrorLogger and DataQualityAudit initialized
